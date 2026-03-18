@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color:aliceblue
+}
+main{
+    background-color: blueviolet;
+}
+p{
+    text-align: center;
+    color:aliceblue;
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+}
+footer{
+    background-color: black;
+}
